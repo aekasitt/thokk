@@ -1,0 +1,8 @@
+{
+  "author": "Sitt Guruvanich <aekazitt+github@gmail.com>",
+  "description": "Simple enough name generator",
+  "keywords": ["generator", "name", "thokk", "typescript"],
+  "license": "MIT",
+  "name": "thokk",
+  "version": "0.1.0"
+}
