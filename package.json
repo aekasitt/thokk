@@ -1,8 +1,24 @@
 {
   "author": "Sitt Guruvanich <aekazitt+github@gmail.com>",
   "description": "Simple enough name generator",
-  "keywords": ["generator", "name", "thokk", "typescript"],
+  "keywords": [
+    "generator",
+    "name",
+    "thokk",
+    "typescript"
+  ],
   "license": "MIT",
+  "main": "./dist/thokk.js",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "types": "./dist/thokk.d.ts",
   "name": "thokk",
-  "version": "0.1.0"
+  "version": "0.1.0",
+  "devDependencies": {
+    "@rollup/plugin-typescript": "^12.1.2",
+    "rollup": "^4.28.1",
+    "tslib": "^2.8.1",
+    "typescript": "^5.7.2"
+  }
 }
