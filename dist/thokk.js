@@ -1,3 +1,5 @@
+'use strict';
+
 /* ~~/src/thokk.ts */
 const ADJECTIVES = [
     'admiring',
@@ -360,5 +362,5 @@ const thokk = (splits = 2, separator = '_') => {
     return artifacts.join(separator);
 };
 
-export { thokk };
+exports.thokk = thokk;
 //# sourceMappingURL=thokk.js.map

@@ -11,7 +11,7 @@ module.exports = {
   output: {
     dir: 'dist',
     exports: 'named',
-    format: 'es',
+    format: 'cjs',
     sourcemap: true,
   },
   plugins,
