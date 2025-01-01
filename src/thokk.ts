@@ -360,5 +360,3 @@ export const thokk = (splits: number = 2, separator: string = '_'): string => {
   artifacts.push(SURNAMES[surnameIndex])
   return artifacts.join(separator)
 }
-
-export default { ADJECTIVES, SURNAMES, thokk }
