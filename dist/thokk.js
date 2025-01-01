@@ -359,7 +359,6 @@ const thokk = (splits = 2, separator = '_') => {
     artifacts.push(SURNAMES[surnameIndex]);
     return artifacts.join(separator);
 };
-var thokk$1 = { ADJECTIVES, SURNAMES, thokk };
 
-export { thokk$1 as default, thokk };
+export { thokk };
 //# sourceMappingURL=thokk.js.map
