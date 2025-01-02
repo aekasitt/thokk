@@ -1,6 +1,6 @@
 {
   "author": "Sitt Guruvanich <aekazitt+github@gmail.com>",
-  "description": "Simple enough name generator",
+  "description": "Docker-like name generator comprising of adjectives and surname with types for TypeScript",
   "keywords": [
     "generator",
     "name",
