@@ -1,9 +1,14 @@
+# node
 node_modules
-tsconfig.tsbuildinfo
-.rollup.cache
 
+# osx indexer
 .DS_Store
 
+# rollup
+.rollup.cache
+tsconfig.tsbuildinfo
+
+# workspace settings
 .idea
 .ignore
 .vscode
