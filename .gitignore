@@ -2,6 +2,8 @@ node_modules
 tsconfig.tsbuildinfo
 .rollup.cache
 
+.DS_Store
+
 .idea
 .ignore
 .vscode
