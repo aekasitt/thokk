@@ -1,6 +1,7 @@
 {
   "author": "Sitt Guruvanich <aekazitt+github@gmail.com>",
   "description": "Docker-like name generator comprising of adjectives and surname with types for TypeScript",
+  "homepage": "https://github.com/aekasitt/thokk",
   "keywords": [
     "generator",
     "name",
@@ -9,6 +10,7 @@
   ],
   "license": "MIT",
   "main": "./dist/thokk.js",
+  "repository": "git@github.com:aekasitt/thokk.git",
   "scripts": {
     "build": "rollup -c"
   },
